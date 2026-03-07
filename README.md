@@ -10,10 +10,10 @@ Currently building Cookio and working on Garanto.
 
 ## 🚧 Current Projects
 
-🍳 Cookio  
+### 🍳 Cookio  
 AI assistant that generates recipes based on ingredients you already have.
 
-🚗 Garanto  
+### 🚗 Garanto  
 Platform connecting car buyers with importers and logistics partners.
 
 ---
