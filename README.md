@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm Arseny 👋
 
 🚀 Product builder focused on startups, AI and real products.
@@ -18,28 +19,34 @@ Platform connecting car buyers with importers and logistics partners.
 
 ## ⚙️ Tech Stack
 
-### Mobile
-![React Native](https://img.shields.io/badge/react%20native-black?style=flat-square&logo=react)
-![Expo](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
+### Core
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-000000?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+### Frameworks
+![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/REACT%20NATIVE-000000?style=flat&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/EXPO-000000?style=flat&logo=expo&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
-
-### AI / Scripts
-![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=flat&logo=postgresql&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -52,3 +59,5 @@ Platform connecting car buyers with importers and logistics partners.
 ## 📈 Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wxirrd&theme=github)
+
+</div>
