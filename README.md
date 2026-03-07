@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm Arseny 👋
+## Hi, I'm Arseny 👋
 
 🚀 Product builder focused on startups, AI and real products.
 
@@ -47,12 +47,6 @@ Platform connecting car buyers with importers and logistics partners.
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxirrd&show_icons=true&theme=transparent)
 
 ---
 
