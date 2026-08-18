@@ -8,7 +8,7 @@ currently building Cookio and working on Garanto.
 
 ---
 
-## 🚧 current Projects
+## 🚧 current projects
 
 ### 🍳 Cookio  
 AI assistant that generates recipes based on ingredients you already have.
@@ -18,7 +18,7 @@ Platform connecting car buyers with importers and logistics partners.
 
 ---
 
-## ⚙️ tech Stack
+## ⚙️ tech stack
 
 ### core
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
