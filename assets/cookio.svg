@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-labelledby="title">
+  <title id="title">Cookio — pixel skillet illustration</title>
+  <g shape-rendering="crispEdges">
+    <path fill="#171725" d="M4 12h24v4h4v16h-4v4H4v-4H0V16h4z"/>
+    <path fill="#a99bc5" d="M4 12h24v4H4zM0 16h4v16H0zm28 0h4v16h-4zM4 32h24v4H4zm28-12h8v8h-8z"/>
+    <path fill="#eee4ce" d="M12 16h8v4h4v8h-4v4h-8v-4H8v-8h4z"/>
+    <path fill="#efbd76" d="M12 20h8v8h-8z"/>
+    <path fill="#8bd6c2" d="M8 0h4v4H8zm4 4h4v4h-4zm8-4h4v4h-4z"/>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">wxirrd — the after-hours workshop</title>
+  <desc id="desc">A dark pixel art room with a lavender night sky, stars, a glowing computer, a small plant and a coffee cup. Senya Bednin, product builder.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#222137" stroke-width="1"/></pattern>
+    <pattern id="floor" width="48" height="24" patternUnits="userSpaceOnUse"><path d="M0 24H48M24 0V24" fill="none" stroke="#303047" stroke-width="2"/></pattern>
+  </defs>
+  <g shape-rendering="crispEdges">
+    <path fill="#11111e" d="M0 0h1200v440H0z"/>
+    <path fill="url(#grid)" d="M0 0h1200v440H0z"/>
+    <path fill="#191927" d="M680 0h520v440H680z"/>
+    <path fill="#232237" d="M680 354h520v86H680z"/>
+    <path fill="url(#floor)" d="M680 354h520v86H680z"/>
+    <!-- Window: a tiny city under a violet moon. -->
+    <path fill="#34314d" d="M766 46h330v224H766z"/>
+    <path fill="#0c1023" d="M774 54h314v208H774z"/>
+    <path fill="#171a35" d="M774 170h314v92H774z"/>
+    <path fill="#252341" d="M774 212h30v-36h38v28h28v-54h42v62h26v-26h40v20h32v-44h42v50h36v50H774z"/>
+    <path fill="#aaa1da" d="M999 80h32v8h8v32h-8v8h-32v-8h-8V88h8z"/>
+    <path fill="#0c1023" d="M1015 72h24v8h8v32h-24v-8h-8z"/>
+    <path fill="#b8afd6" d="M802 81h4v4h-4zm63 27h4v4h-4zm-33 44h4v4h-4zm115-82h4v4h-4zm116 77h4v4h-4zm-103-8h4v4h-4z"/>
+    <path fill="#7e729f" d="M918 92h4v12h-4zm-4 4h12v4h-12zm128 38h4v12h-4zm-4 4h12v4h-12z"/>
+    <path fill="#a28caa" d="M818 192h6v8h-6zm0 20h6v8h-6zm64-48h6v8h-6zm14 20h6v8h-6zm55 20h6v8h-6zm76-24h6v8h-6zm14 18h6v8h-6z"/>
+    <path fill="#34314d" d="M927 54h6v208h-6zM774 254h314v8H774zM758 266h346v8H758z"/>
+    <!-- Monitor and lavender light, drawn as hard-edged pixels. -->
+    <path fill="#24243b" d="M832 228h168v116H832z"/>
+    <path fill="#33334d" d="M840 236h152v100H840z"/>
+    <path fill="#161d30" d="M848 244h136v80H848z"/>
+    <path fill="#b7b0ea" d="M860 258h6v6h-6zm6 6h6v6h-6zm-6 6h6v6h-6z"/>
+    <path fill="#8bd6c2" d="M880 260h34v4h-34zm0 12h60v4h-60z"/>
+    <path fill="#80779e" d="M860 288h54v4h-54zm0 12h82v4h-82z"/>
+    <path fill="#ecc68e" d="M924 288h34v4h-34z"/>
+    <path fill="#b7b0ea" d="M948 300h10v4h-10z"/>
+    <path fill="#55516d" d="M900 336h32v16h-32zm-16 16h64v8h-64z"/>
+    <path fill="#8bd6c2" d="M976 330h4v4h-4z"/>
+    <!-- Desk, keyboard, cup and plant. -->
+    <path fill="#6b5366" d="M748 360h352v12H748z"/>
+    <path fill="#48394f" d="M756 372h336v10H756z"/>
+    <path fill="#3a3044" d="M768 382h12v58h-12zm300 0h12v58h-12z"/>
+    <path fill="#79728d" d="M864 350h98v8h-98z"/>
+    <path fill="#444158" d="M872 350h4v4h-4zm12 0h4v4h-4zm12 0h4v4h-4zm12 0h4v4h-4zm12 0h4v4h-4zm12 0h4v4h-4z"/>
+    <path fill="#d1af94" d="M1024 332h20v24h-20zm20 4h8v16h-8z"/>
+    <path fill="#191927" d="M1044 340h4v8h-4z"/>
+    <path fill="#736278" d="M1028 314h4v10h-4zm8-8h4v12h-4z"/>
+    <path fill="#a17f8f" d="M784 336h28v8h-28zm4 8h20v16h-20z"/>
+    <path fill="#72a995" d="M796 300h4v36h-4zm-12 6h8v8h8v8h-8v-8h-8zm16-12h8v8h-8zm0 28h8v-8h8v8h-8v8h-8z"/>
+    <!-- A cable sneaks below the desk. -->
+    <path d="M988 382v24h28v18h24" fill="none" stroke="#72627e" stroke-width="4"/>
+    <!-- Left-side title is custom 5x7 pixel lettering, independent of fonts. -->
+    <g fill="#ded9ee" transform="translate(62 112) scale(10)">
+      <path d="M0 0h1v5h1v-2h1v2h1V0h1v6H4v1H3V5H2v2H1V6H0z"/>
+      <path transform="translate(7)" d="M0 0h1v2h1v1h1V2h1V0h1v2H4v1H3v1h1v1h1v2H4V5H3V4H2v1H1v2H0V5h1V4h1V3H1V2H0z"/>
+      <path transform="translate(14)" d="M0 0h5v1H3v5h2v1H0V6h2V1H0z"/>
+      <path transform="translate(21)" d="M0 0h4v1H1v2h3v1H1v3H0zm4 1h1v2H4zM2 4h1v1H2zm1 1h1v1H3zm1 1h1v1H4z"/>
+      <path transform="translate(28)" d="M0 0h4v1H1v2h3v1H1v3H0zm4 1h1v2H4zM2 4h1v1H2zm1 1h1v1H3zm1 1h1v1H4z"/>
+      <path transform="translate(35)" d="M0 0h3v1H1v5h2v1H0zm3 1h1v1H3zm1 1h1v3H4zM3 5h1v1H3z"/>
+    </g>
+    <path fill="#8bd6c2" d="M62 59h8v8h-8z"/>
+    <path fill="#534762" d="M62 292h36v3H62z"/>
+    <path fill="#afa1ca" d="M106 292h8v3h-8z"/>
+    <path fill="#ecc68e" d="M122 292h8v3h-8z"/>
+    <path fill="#8bd6c2" d="M138 292h8v3h-8z"/>
+    <path fill="#8bd6c2" d="M62 367h4v4h-4z"/>
+    <path fill="#70647f" d="M22 22h16v4H26v12h-4zm1140 0h16v16h-4V26h-12zM22 402h4v12h12v4H22zm1152 0h4v16h-16v-4h12z"/>
+  </g>
+  <g font-family="'Courier New',monospace">
+    <text x="82" y="67" fill="#b1a7c6" font-size="13" letter-spacing="2">THE AFTER-HOURS WORKSHOP</text>
+    <text x="62" y="225" fill="#eee8f5" font-size="23" font-weight="bold">Senya Bednin / product builder</text>
+    <text x="62" y="256" fill="#aaa1bc" font-size="16">Small ideas. Real products.</text>
+    <text x="76" y="373" fill="#b9aecb" font-size="13">ON THE WORKBENCH</text>
+    <text x="62" y="400" fill="#e5bfd0" font-size="16">Cookio</text>
+    <text x="140" y="400" fill="#625870" font-size="16">/</text>
+    <text x="161" y="400" fill="#b9b2e5" font-size="16">Garanto</text>
+  </g>
+</svg>

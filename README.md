@@ -1,58 +1,92 @@
-<div align="center">
-  
-# yo, I'm Senya 👋
+<p align="center">
+  <img src="./assets/workshop.svg" width="100%" alt="wxirrd — a pixel art workspace after dark. Senya Bednin, product builder." />
+</p>
 
-🚀 product builder focused on startups, AI and real products.
+<p align="center">
+  <strong>Hey, I'm Senya.</strong> I build products for everyday problems.<br />
+  Working across web, mobile and AI — from an idea to something you can use.
+</p>
 
-currently building Cookio and working on Garanto.
+<p align="center">
+  <a href="https://github.com/wxirrd?tab=repositories">Explore my repos ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/wxirrd">@wxirrd</a>
+</p>
+
+<br />
+
+### Currently on my workbench
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="./assets/cookio.svg" width="32" height="32" alt="" /> Cookio</h3>
+      <p><strong>A little AI for the everyday “what's for dinner?”</strong></p>
+      <p>An AI assistant that generates recipes from the ingredients you already have.</p>
+      <p><code>AI</code> <code>Food</code> <code>Everyday tools</code></p>
+      <p><sub>Coming soon</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="./assets/garanto.png" width="32" height="32" alt="" /> Garanto</h3>
+      <p><strong>Connecting the people behind a car import.</strong></p>
+      <p>A platform connecting car buyers with importers and logistics partners.</p>
+      <p><code>Platform</code> <code>Automotive</code> <code>Logistics</code></p>
+      <p><a href="https://grnto.ru"><strong>Explore Garanto ↗</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### My toolkit
+
+#### Web
+
+<p>
+  <img src="./assets/toolkit/typescript.svg" width="148" height="48" alt="TypeScript" />
+  <img src="./assets/toolkit/javascript.svg" width="148" height="48" alt="JavaScript" />
+  <img src="./assets/toolkit/react.svg" width="148" height="48" alt="React" />
+  <img src="./assets/toolkit/nextjs.svg" width="148" height="48" alt="Next.js" />
+  <img src="./assets/toolkit/vite.svg" width="148" height="48" alt="Vite" />
+  <img src="./assets/toolkit/html.svg" width="148" height="48" alt="HTML" />
+  <img src="./assets/toolkit/css.svg" width="148" height="48" alt="CSS" />
+  <img src="./assets/toolkit/sass.svg" width="148" height="48" alt="Sass" />
+</p>
+
+#### Mobile
+
+<p>
+  <img src="./assets/toolkit/react-native.svg" width="148" height="48" alt="React Native" />
+  <img src="./assets/toolkit/expo.svg" width="148" height="48" alt="Expo" />
+</p>
+
+#### Backend
+
+<p>
+  <img src="./assets/toolkit/nodejs.svg" width="148" height="48" alt="Node.js" />
+  <img src="./assets/toolkit/express.svg" width="148" height="48" alt="Express" />
+  <img src="./assets/toolkit/python.svg" width="148" height="48" alt="Python" />
+  <img src="./assets/toolkit/postgresql.svg" width="148" height="48" alt="PostgreSQL" />
+</p>
+
+#### Tools
+
+<p>
+  <img src="./assets/toolkit/git.svg" width="148" height="48" alt="Git" />
+  <img src="./assets/toolkit/docker.svg" width="148" height="48" alt="Docker" />
+</p>
+
+<br />
 
 ---
 
-## 🚧 current projects
+<p align="center">
+  <strong>Have an idea? Let's build it.</strong><br />
+  <a href="https://t.me/wxirrd">Telegram · @wxirrd ↗</a>
+</p>
 
-### 🍳 Cookio  
-AI assistant that generates recipes based on ingredients you already have.
+<!-- Enable when the personal website is ready:
+<p align="center"><a href="https://bednin.ru">bednin.ru ↗</a></p>
+-->
 
-### 🚗 Garanto  
-Platform connecting car buyers with importers and logistics partners.
-
----
-
-## ⚙️ tech stack
-
-### core
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-000000?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
-
-### frameworks
-![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
-
-### mobile
-![React Native](https://img.shields.io/badge/REACT%20NATIVE-000000?style=flat&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/EXPO-000000?style=flat&logo=expo&logoColor=white)
-
-### backend
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
-
-### database
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=flat&logo=postgresql&logoColor=white)
-
-### tools
-![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat&logo=docker&logoColor=white)
-
----
-
-## 📈 activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wxirrd&theme=github)
-
-</div>
+<p align="center"><sub>Senya Bednin &nbsp; / &nbsp; wxirrd &nbsp; / &nbsp; Products, AI &amp; startups</sub></p>
